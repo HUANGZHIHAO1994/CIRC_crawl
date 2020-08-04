@@ -225,7 +225,7 @@ if __name__ == '__main__':
 
         f = open('./province_licence.txt')
 #         print(f.read().split('\n'))
-        for url in f.read().split('\n'):
+        for url in f.read().split('\n')[:-1]:
                 # city = "beijing"    # 要修改
                 city = url.split('/')[4]
                 logger.info(city)
