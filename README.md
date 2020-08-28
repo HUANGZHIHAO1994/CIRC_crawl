@@ -2,7 +2,7 @@
     <img src='https://ftp.bmp.ovh/imgs/2020/08/b77a8439ea51e080.jpg' height="50" width="50" >
  </div>
  
-![circ_crawl](https://badgen.net/github/status/HUANGZHIHAO1994/SCIHUB_download)
+![circ_crawl](https://badgen.net/badge/circ/crawl?icon=chrome)
 ![GitHub license](https://badgen.net/github/license/HUANGZHIHAO1994/CIRC_crawl?color=green)
 
 # CIRC_crawl
